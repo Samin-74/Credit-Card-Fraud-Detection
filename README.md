@@ -8,3 +8,5 @@ Key features:
 -Insights into the temporal patterns of fraudulent activity
 
 This project demonstrates skills in data analysis, visualization, and financial fraud detection techniques.
+
+The dataset for training is linked here: https://drive.google.com/file/d/1bdZHBuGtGZsYWaDP4QBpSok9LgE9C-_I/view?usp=sharing
