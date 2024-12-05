@@ -1,5 +1,5 @@
 # Credit-Card-Fraud-Detection
-This project analyzes a dataset of credit card transactions to detect fraudulent activity. It includes exploratory data analysis, visualization of transaction patterns, and insights into the characteristics of fraudulent vs. legitimate transactions. The analysis is performed using Python, with libraries such as Pandas, Matplotlib, and Seaborn.
+This project analyzes a dataset of credit card transactions to detect fraudulent activity. It includes exploratory data analysis, visualization of transaction patterns, elementary machine learning, and insights into the characteristics of fraudulent vs. legitimate transactions. The analysis is performed using Python, with libraries such as Pandas, Matplotlib, and Seaborn.
 
 Key features:
 -Data preprocessing and cleaning
